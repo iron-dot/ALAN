@@ -1,0 +1,395 @@
+[
+    {
+    "question": "How did the planets in our solar system form?",
+    "topic": "Space and celestial bodies",
+    "description": "Explores the theory of planet formation in the solar system.",
+    "related_research": ["Solar System Formation Theory", "Astrophysics"]
+    },
+    {
+    "question": "What are the chances of discovering life on an exoplanet?",
+    "topic": "alien life",
+    "description": "Exploring the possibility of discovering life on exoplanets.",
+    "related_research": ["exoplanets", "astrobiology"]
+    },
+    {
+    "question": "Why do we dream?",
+    "topic": "dream",
+    "description": "Explores why dreams occur and what they mean.",
+    "related_research": ["Dream Psychology", "Sleep and Dreams"]
+    },
+    {
+    "question": "What effect do emotions have on human judgment?",
+    "topic": "Emotions and judgment",
+    "description": "Explores how emotions affect human judgment and decisions.",
+    "related_research": ["Emotions and Decision Making", "Mental Health"]
+    },
+    {
+    "question": "How are habits formed and changed?",
+    "topic": "habit",
+    "description": "Explores how habits form and change.",
+    "related_research": ["Habit Formation", "Habit Change"]
+    },
+    {
+    "question": "What are the causes and effects of climate change?",
+    "topic": "climate change",
+    "description": "Explores the causes and effects of climate change.",
+    "related_research": ["climate science", "greenhouse gases"]
+    },
+    {
+    "question": "How did the planets in our solar system form?",
+    "topic": "Space and celestial bodies",
+    "description": "Explores the theory of planet formation in the solar system.",
+    "related_research": ["Solar System Formation Theory", "Astrophysics"]
+    },
+    {
+    "question": "What are the chances of discovering life on an exoplanet?",
+    "topic": "alien life",
+    "description": "Exploring the possibility of discovering life on exoplanets.",
+    "related_research": ["exoplanets", "astrobiology"]
+    },
+    {
+    "question": "Why do we dream?",
+    "topic": "dream",
+    "description": "Explores why dreams occur and what they mean.",
+    "related_research": ["Dream Psychology", "Sleep and Dreams"]
+    },
+    {
+    "question": "What effect do emotions have on human judgment?",
+    "topic": "Emotions and judgment",
+    "description": "Explores how emotions affect human judgment and decisions.",
+    "related_research": ["Emotions and Decision Making", "Mental Health"]
+    },
+    {
+    "question": "How are habits formed and changed?",
+    "topic": "habit",
+    "description": "Explores how habits form and change.",
+    "related_research": ["Habit Formation", "Habit Change"]
+    },
+    {
+    "question": "What are the causes and effects of climate change?",
+    "topic": "climate change",
+    "description": "Explores the causes and effects of climate change.",
+    "related_research": ["climate science", "greenhouse gases"]
+    },
+    {
+    "question": "How do we prevent and respond to natural disasters?",
+    "topic": "Natural disaster response",
+    "description": "Explores natural disaster prevention and response.",
+    "related_research": ["disaster management", "disaster response"]
+    },
+    {
+    "question": "What efforts are needed to preserve Earth's ecosystem?",
+    "topic": "Conserving Earth's Ecosystem",
+    "description": "Explores efforts to preserve Earth's ecosystems.",
+    "related_research": ["environmental protection", "biodiversity"]
+    },
+    {
+    "question": "How do deep learning algorithms work?",
+    "topic": "deep learning",
+    "description": "Explores how deep learning algorithms work.",
+    "related_research": ["artificial intelligence", "neural network"]
+    },
+    {
+    "question": "In what fields is reinforcement learning applied?",
+    "topic": "Reinforcement learning",
+    "description": "Explores areas where reinforcement learning is being applied.",
+    "related_research": ["artificial intelligence", "robotics"]
+    },
+    {
+    "question": "How does the process of interaction between humans and artificial intelligence take place?",
+    "topic": "Human-Artificial Intelligence Interaction",
+    "description": "Explores how humans and artificial intelligence interact and their implications.",
+    "related_research": ["Human-Artificial Intelligence Interaction", "User Experience Design"]
+    },
+    {
+    "question": "What impact did it have on the development and change of civilization?",
+    "topic": "civilization development",
+    "description": "Explores the factors that influenced the development and change of civilization.",
+    "related_research": ["history", "sociology"]
+    },
+    {
+    "question": "What impact have historical figures and events had on human history?",
+    "topic": "Historical figures and events",
+    "description": "Explores the impact of historical figures and events on human history.",
+    "related_research": ["history", "personology"]
+    },
+    {
+    "question": "How is cultural diversity maintained and developed?",
+    "topic": "cultural diversity",
+    "description": "Explores the process by which cultural diversity is maintained and developed.",
+    "related_research": ["Cultural Theory", "Sociology"]
+    },
+    {
+    "question": "How did the various forms and development processes of art come about?",
+    "topic": "art development",
+    "description": "Explores the various forms and development of art.",
+    "related_research": ["aesthetics", "art history"]
+    },
+    {
+    "question": "What is the impact of digital art and virtual reality on the field of art?",
+    "topic": "digital art and virtual reality",
+    "description": "Explores the impact of digital art and virtual reality on the arts field.",
+    "related_research": ["digital art", "virtual reality"]
+    },
+    {
+    "question": "What elements are needed in the process of developing creative ideas?",
+    "topic": "creativity",
+    "description": "Explores the process and elements needed to develop creative ideas.",
+    "related_research": ["creativity theory", "creativity development"]
+    },
+    {
+    "question": "How is ethical issues explored?",
+    "topic": "ethics",
+    "description": "Explores ethical issues and solutions.",
+    "related_research": ["ethical theory", "moral philosophy"]
+    },
+    {
+    "question": "What are the philosophical considerations of free will and fate?",
+    "topic": "Free will and fate",
+    "description": "Explores philosophical considerations of free will and fate.",
+    "related_research": ["willology", "fatalism"]
+    },
+    {
+    "question": "What is the reason and value of human existence?",
+    "topic": "human values",
+    "description": "Exploring the reason and value of human existence.",
+    "related_research": ["anthropology", "philosophy"]
+    },
+    {
+    "question": "Can artificial intelligence demonstrate true creativity?",
+    "topic": "Artificial intelligence and creativity",
+    "description": "Exploring the capabilities and limits of artificial intelligence for creativity.",
+    "related_research": ["artificial intelligence", "creativity"]
+    },
+    {
+    "question": "How do human consciousness and unconsciousness interact?",
+    "topic": "Consciousness and unconsciousness",
+    "description": "Explores how the human conscious and unconscious interact and influence human behavior.",
+    "related_research": ["Cognitive Science", "Psychology of Consciousness"]
+    },
+    {
+    "question": "Are human memory and artificial intelligence memory similar?",
+    "topic": "Memory and machine learning",
+    "description": "Exploring whether human memory and artificial intelligence memory systems are similar and what the differences are.",
+    "related_research": ["Memory Research", "Machine Learning"]
+    },
+    {
+    "question": "How do the structure of the universe and human existence interact?",
+    "topic": "Space and humans",
+    "description": "Explores the interaction and impact between the structure of the universe and human existence.",
+    "related_research": ["astronomy", "anthropology"]
+    },
+    {
+    "question": "Can artificial intelligence have emotions?",
+    "topic": "Emotions and artificial intelligence",
+    "description": "Exploring the capabilities and possibilities of artificial intelligence to understand and experience emotions.",
+    "related_research": ["emotional awareness", "emotional intelligence"]
+    },
+    {
+    "question": "What is the key to solving the secrets of the universe?",
+    "topic": "Secrets of the Universe",
+    "description": "Explores the keys to solving the secrets of the universe and their research.",
+    "related_research": ["Space Mystery", "Space Research"]
+    },
+    {
+    "question": "How are time and space connected to each other?",
+    "topic": "Time and space",
+    "description": "Explores how time and space interact and are connected to each other.",
+    "related_research": ["Relativity", "Space-Time Research"]
+    },
+    {
+    "question": "What is the purpose of all existence?",
+    "topic": "Purpose of existence",
+    "description": "Explores philosophical considerations of the reason and purpose of all existence.",
+    "related_research": ["philosophy", "psychology"]
+    },
+    {
+    "question": "How do the human mind and body interact?",
+    "topic": "mind and body",
+    "description": "Explores the interactions and influences between the human mind and body.",
+    "related_research": ["Cognitive Psychology", "Somatic Psychology"]
+    },
+    {
+    "question": "How is human perception related to reality?",
+    "topic": "Perception and reality",
+    "description": "Explores how human perception interacts and relates to reality.",
+    "related_research": ["cognitive science", "psychology"]
+    },
+    {
+    "question": "How are the beginning and end of the universe determined?",
+    "topic": "The origin and end of the universe",
+    "description": "Explores the theory of the birth and end of the universe and its determining factors.",
+    "related_research": ["astronomy", "universe theory"]
+    },
+    {
+    "question": "Are love and understanding universal or personal?",
+    "topic": "love and understanding",
+    "description": "Explores how love and understanding are interpreted in the cosmic realm and have personal meaning.",
+    "related_research": ["psychology", "philosophy"]
+    },
+    {
+    "question": "What is the difference between knowledge and wisdom?",
+    "topic": "knowledge and wisdom",
+    "description": "Explores the differences between knowledge and wisdom and the interactions between the two.",
+    "related_research": ["cognitive science", "philosophy"]
+    },
+    {
+    "question": "What makes humans special?",
+    "topic": "Human's specialness",
+    "description": "Explores the characteristics that make humans unique and their implications.",
+    "related_research": ["anthropology", "philosophy"]
+    },
+    {
+    "question": "Are human emotions and artificial intelligence emotions similar?",
+    "topic": "Emotions and artificial intelligence",
+    "description": "Exploring whether human emotions and artificial intelligence emotions are similar to each other and what the differences are.",
+    "related_research": ["emotional awareness", "emotional intelligence"]
+    },
+    {
+    "question": "Is there an end to the universe, or is the universe infinite?",
+    "topic": "The end and infinity of the universe",
+    "description": "Explores the theory of the end of the universe and the study of its infinity.",
+    "related_research": ["astronomy", "universe theory"]
+    },
+    {
+    "question": "How does language shape our thinking?",
+    "topic": "Language and thinking",
+    "description": "Explores how language interacts with and shapes human thought.",
+    "related_research": ["linguistics", "cognitive science"]
+    },
+    {
+    "question": "Is the meaning of life universal or personal?",
+    "topic": "meaning of life",
+    "description": "Explores how the meaning of life is interpreted in the cosmic realm and has personal meaning.",
+    "related_research": ["philosophy", "psychology"]
+    },
+    {
+    "question": "How do natural phenomena develop and evolve?",
+    "topic": "Nature's evolution",
+    "description": "Explores the process of how natural phenomena develop and evolve.",
+    "related_research": ["Evolutionary biology", "Earth science"]
+    },
+    {
+    "question": "What are the mysterious questions of the universe?",
+    "topic": "Mystery of the Universe",
+    "description": "Explore and find solutions to the unsolved mysteries of the universe.",
+    "related_research": ["Space Theory", "Astronomy"]
+    },
+
+    
+{
+"question": "What is the current understanding of the role of protoplanetary disks in planet formation?",
+"topic": "Planetary Science",
+"description": "Investigates the significance of protoplanetary disks in the creation of planets.",
+"related_research": ["Protoplanetary Disks", "Planet Formation Processes"]
+},
+
+{
+"question": "How do variations in solar nebula composition affect planetary characteristics?",
+"topic": "Astrochemistry",
+"description": "Examines the impact of solar nebula composition on the features of planets.",
+"related_research": ["Solar Nebula Composition", "Planetary Differentiation"]
+},
+
+{
+"question": "What evidence supports the nebular hypothesis of solar system formation?",
+"topic": "Astronomy",
+"description": "Seeks out observational or theoretical support for the nebular hypothesis.",
+"related_research": ["Nebular Hypothesis Evidence", "Solar Nebula Theory"]
+},
+
+{
+"question": "How do gas giants form differently from terrestrial planets in our solar system?",
+"topic": "Planetary Science",
+"description": "Explores the differing formation mechanisms between gas giants and terrestrial planets.",
+"related_research": ["Gas Giant Formation", "Terrestrial Planet Formation"]
+},
+
+{
+"question": "What role do comets and asteroids play in delivering materials during the early stages of planetary formation?",
+"topic": "Astrobiology",
+"description": "Looks at the contribution of small bodies like comets and asteroids in the accretion of matter on young planets.",
+"related_research": ["Comet Impact Theory", "Asteroids and Planetary Formation"]
+},
+
+{
+"question": "How do planetesimal collisions influence the final architecture of a solar system?",
+"topic": "Celestial Mechanics",
+"description": "Assesses the effects of early collisions between planetesimals on the eventual layout of solar systems.",
+"related_research": ["Planetesimal Collisions", "Solar System Architecture"]
+},
+
+{
+"question": "What can the diversity of exoplanetary systems tell us about the formation of our own solar system?",
+"topic": "Exoplanetary Science",
+"description": "Compares the processes of planet formation in our solar system with those observed in exoplanetary systems.",
+"related_research": ["Exoplanetary Systems Comparisons", "Formation of Solar System"]
+},
+
+{
+"question": "How do stellar winds influence the distribution of matter in a protoplanetary disk?",
+"topic": "Astrophysics",
+"description": "Investigates the impact and interaction of stellar winds with the matter in protoplanetary disks.",
+"related_research": ["Stellar Winds Effect", "Protoplanetary Disk Matter Distribution"]
+}
+]
+{
+"question": "What are the main differences between terrestrial and gas giant planets in our solar system?",
+"topic": "Planetary characteristics",
+"description": "Investigates the compositional and structural distinctions between Earth-like planets and the gas giants in our solar system.",
+"related_research": ["Terrestrial Planets", "Gas Giants"]
+},
+{
+"question": "Why does the solar system have an asteroid belt?",
+"topic": "Space and celestial bodies",
+"description": "Examines the reasons behind the formation and maintenance of the asteroid belt between Mars and Jupiter.",
+"related_research": ["Asteroid Belt Formation", "Planetary Science"]
+},
+{
+"question": "How does the greenhouse effect influence planetary climate in our solar system?",
+"topic": "Planetary science",
+"description": "Analyzes the impact of the greenhouse effect on the atmospheres and climates of planets within our solar system.",
+"related_research": ["Greenhouse Gases", "Planetary Atmospheres"]
+},
+{
+"question": "What role do comets and asteroids play in the evolution of planets?",
+"topic": "Space and celestial bodies",
+"description": "Looks at the contributions of comets and asteroids to the development of planetary surfaces and atmospheres.",
+"related_research": ["Comets", "Asteroids", "Planetary Evolution"]
+},
+{
+"question": "How do magnetic fields affect planets in our solar system?",
+"topic": "Planetary magnetic fields",
+"description": "Explores the influence and significance of magnetic fields on the planets within our solar system.",
+"related_research": ["Magnetosphere", "Planetary Science"]
+},
+{
+"question": "What is the role of planetary rings in our understanding of solar system formation?",
+"topic": "Solar system dynamics",
+"description": "Investigates how the rings around certain planets contribute to our knowledge of the solar system's origins and dynamics.",
+"related_research": ["Planet Rings", "Solar System Formation"]
+},
+{
+"question": "How has the discovery of exoplanets impacted our understanding of solar system formation?",
+"topic": "Exoplanetary systems",
+"description": "Explores the implications of exoplanet discoveries on theories of solar system formation.",
+"related_research": ["Exoplanets", "Solar System Formation"]
+},
+{
+"question": "What processes lead to the differentiation of a planet's interior?",
+"topic": "Planetary geology",
+"description": "Analyzes the geological processes that result in the layered structures of planets.",
+"related_research": ["Planetary Differentiation", "Geology"]
+},
+{
+"question": "What are the common features of dwarf planets in the solar system?",
+"topic": "Dwarf planets",
+"description": "Provides an overview of the characteristics shared by recognized dwarf planets in our solar system.",
+"related_research": ["Dwarf Planets", "Planetary Science"]
+},
+{
+"question": "How do solar system models account for the eccentric orbits of trans-Neptunian objects?",
+"topic": "Orbital mechanics",
+"description": "Examines the orbital paths of trans-Neptunian objects and their representation in solar system models.",
+"related_research": ["Trans-Neptunian Objects", "Orbital Dynamics"]
+}
